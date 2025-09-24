@@ -1,0 +1,4 @@
+inherits = 'dracula'
+"ui.background" = {}
+"ui.gutter" = {bg = {}}
+"ui.linenr" = {bg = {}}

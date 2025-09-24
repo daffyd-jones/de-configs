@@ -1,0 +1,9 @@
+theme = 'custom'
+
+[keys.normal.space]
+l = ":toggle lsp.display-inlay-hints"
+
+
+
+
+
